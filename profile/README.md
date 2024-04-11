@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-这是 [PCL2](https://github.com/Hex-Dragon/PCL2) 社区中的部分 Collaborator 和比较活跃的志愿者组建成的一个 Organization，仅是一个社区玩家的组织，不代表 PCL 官方。
+这是 [PCL2](https://github.com/Hex-Dragon/PCL2) 社区中的部分 Collaborator 、部分 Contributor 、Maintainer、和 [@Deep-Dark-Forest](https://github.com/Deep-Dark-Forest)组建成的一个 Organization，仅是一个社区玩家的组织，不代表 PCL 官方。
 
 我们会在这里一起制作一些有趣的关于 PCL 或 Minecraft 的小东西，如果你感兴趣的话可以来看看！
 
