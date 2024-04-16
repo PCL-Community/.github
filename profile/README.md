@@ -16,4 +16,4 @@
 
 我们欢迎更多社区玩家加入，如有意愿请联系 [@WForst-Breeze](https://github.com/WForst-Breeze) 或 [@JingHai-Lingyun](https://github.com/JingHai-Lingyun)
 
-欢迎加入我们的[Telegram](https://t.me/pclcommunity) ！
+欢迎加入我们的[Telegram](https://t.me/pcl_community) ！
