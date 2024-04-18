@@ -14,6 +14,6 @@
 
 我们会在这里一起制作一些有趣的关于 PCL 或 Minecraft 的小东西，如果你感兴趣的话可以来看看！
 
-我们欢迎更多社区玩家加入，如有意愿请联系 [@WForst-Breeze](https://github.com/WForst-Breeze) 或 [@JingHai-Lingyun](https://github.com/JingHai-Lingyun)
+我们欢迎更多社区玩家加入，如有意愿请加入审核群：925070982
 
-欢迎加入我们的[Telegram](https://t.me/pcl_community) ！
+同时，欢迎加入我们的 [Telegram](https://t.me/pcl_community) ！
