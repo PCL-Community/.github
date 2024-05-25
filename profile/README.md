@@ -18,4 +18,4 @@
 
 我们在 [GitCode](https://www.gitcode.com/PCL-Community)、[Gitee](https://www.gitee.com/PCL-Community)、[GitLab](https://www.gitlab.com/PCL-Community) 都设置了分组织，分别由 [@Deep-Dark-Forest](https://www.github.com/Deep-Dark-Forest)、[@wuliaodexiaoluo](https://www.github.com/wuliaodexiaoluo)、[@hejiehao](https://www.github.com/hejiehao) 管理，如果你想加入可以联系他们！
 
-同时，欢迎加入我们的 [Telegram](https://t.me/pcl_community) ！
+同时，欢迎加入我们的 [Telegram](https://t.me/PCL_Community) ！
