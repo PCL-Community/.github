@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-[![GitCode](https://img.shields.io/badge/-GitCode-da203e?style=for-the-badge)](https://www.gitcode.com/PCL-Community "由 @Deep-Dark-Forest 创建") [![GitLab](https://img.shields.io/badge/-GitLab-ff492c?style=for-the-badge)](https://www.gitlab.com/PCL-Community "由 @hejiehao 创建") [![Gitee](https://img.shields.io/badge/-Gitee-c71d23?style=for-the-badge)](https://www.gitee.com/PCL-Community "由 @wuliaodexiaoluo 创建") [![Telegram](https://img.shields.io/badge/-Telegram-2481cc?style=for-the-badge)](https://t.me/PCL_Community) [![Oopz](https://img.shields.io/badge/-Oopz-131313?style=for-the-badge)](https://oopz.cn/i/iQXRjh) [![Discord](https://img.shields.io/badge/-Discord-5661f5?style=for-the-badge)](https://discord.gg/7xVDtQWUSn)
-
 <!--
+
 **Here are some ideas to get you started:**
+
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
@@ -17,7 +17,26 @@
 
 我们欢迎更多社区玩家加入，如有意愿请加入审核群：925070982。
 
+<details><summary> 这些是我们在其他平台设置的分组织 </summary>
+<p>
+
+[![GitCode](https://img.shields.io/badge/-GitCode-da203e?style=for-the-badge)](https://www.gitcode.com/PCL-Community "由 @Deep-Dark-Forest 创建") [![GitLab](https://img.shields.io/badge/-GitLab-ff492c?style=for-the-badge)](https://www.gitlab.com/PCL-Community "由 @hejiehao 创建") [![Gitee](https://img.shields.io/badge/-Gitee-c71d23?style=for-the-badge)](https://www.gitee.com/PCL-Community "由 @wuliaodexiaoluo 创建")
+---
+
+</p>
+</details>
+
+<details><summary> 除了 QQ 之外，你还可以在这些地方与我们交流 </summary>
+<p>
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2481cc?style=for-the-badge)](https://t.me/PCL_Community) [![Oopz](https://img.shields.io/badge/-Oopz-131313?style=for-the-badge)](https://oopz.cn/i/iQXRjh) [![Discord](https://img.shields.io/badge/-Discord-5661f5?style=for-the-badge)](https://discord.gg/7xVDtQWUSn)
+---
+
+</p>
+</details>
+
 <!--
 我们在 [GitCode](https://www.gitcode.com/PCL-Community)、[Gitee](https://www.gitee.com/PCL-Community)、[GitLab](https://www.gitlab.com/PCL-Community) 都设置了分组织，分别由 [@Deep-Dark-Forest](https://www.github.com/Deep-Dark-Forest)、[@wuliaodexiaoluo](https://www.github.com/wuliaodexiaoluo)、[@hejiehao](https://www.github.com/hejiehao) 管理，如果你想加入可以联系他们！
+
 同时，欢迎加入我们的 [Telegram](https://t.me/PCL_Community) 或 [Oopz 群组](https://oopz.cn/i/iQXRjh) ！
 -->
