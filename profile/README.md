@@ -29,7 +29,7 @@
   
 </details>
 
-[关于分组织与交流平台的说明]()
+[关于分组织与交流平台的说明](https://pcl-community.github.io/Forum/post/guan-yu-fen-zu-zhi-yu-jiao-liu-ping-tai-de-shuo-ming.html)
 
 <!--
 我们在 [GitCode](https://www.gitcode.com/PCL-Community)、[Gitee](https://www.gitee.com/PCL-Community)、[GitLab](https://www.gitlab.com/PCL-Community) 都设置了分组织，分别由 [@Deep-Dark-Forest](https://www.github.com/Deep-Dark-Forest)、[@wuliaodexiaoluo](https://www.github.com/wuliaodexiaoluo)、[@hejiehao](https://www.github.com/hejiehao) 管理，如果你想加入可以联系他们！
