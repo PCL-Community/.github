@@ -25,7 +25,7 @@
 <details>
 <summary> 除了 QQ，你还可以在这些平台与我们交流 </summary>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2481cc?style=for-the-badge)](https://t.me/PCL_Community) [![Oopz](https://img.shields.io/badge/-Oopz-131313?style=for-the-badge)](https://oopz.cn/i/iQXRjh) [![Discord](https://img.shields.io/badge/-Discord-5661f5?style=for-the-badge)](https://discord.gg/7xVDtQWUSn)
+[![Telegram](https://img.shields.io/badge/-Telegram-2481cc?style=for-the-badge)](https://t.me/PCL_Community) <!-- [![Oopz](https://img.shields.io/badge/-Oopz-131313?style=for-the-badge)](https://oopz.cn/i/iQXRjh) --> [![Discord](https://img.shields.io/badge/-Discord-5661f5?style=for-the-badge)](https://discord.gg/7xVDtQWUSn)
   
 </details>
 
