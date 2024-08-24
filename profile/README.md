@@ -13,7 +13,7 @@
 
 我们会在这里一起制作一些有趣的关于 PCL、Minecraft，甚至是其他的一些的小东西，如果你感兴趣的话可以来看看！
 
-我们欢迎更多社区玩家加入，交流群：379026872。如有意愿加入组织请在群中 @WForst-Breeze @Deep-Dark-Forest @allMagicNB，会尽可能在两天内发送邀请。
+我们欢迎更多社区玩家加入，交流群：379026872。如有意愿加入组织请在群中 @WForst-Breeze @Deep-Dark-Forest @allMagicNB @JingHai-Lingyun，会尽可能在两天内发送邀请。
 
 <details>
 <summary> 我们在这些平台设置了分组织 </summary>
