@@ -16,6 +16,14 @@
 
 我们欢迎更多社区玩家加入，交流群[^1]：379026872。如有意愿加入组织请在群中 @WForst-Breeze @Deep-Dark-Forest @allMagicNB @JingHai-Lingyun，会尽可能在两天内发送邀请。
 
+---
+
+### 临时公告
+
+- [2025/2/1] ❗社区临时限制公告❗- [https://github.com/PCL-Community/.github/discussions/9](https://github.com/PCL-Community/.github/discussions/9)
+
+---
+
 [^1]: [关于分组织与交流平台的说明](https://pcl-community.github.io/Forum/post/guan-yu-fen-zu-zhi-yu-jiao-liu-ping-tai-de-shuo-ming.html)
 
 
