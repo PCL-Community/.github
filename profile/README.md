@@ -14,7 +14,7 @@
 
 我们会在这里一起制作一些有趣的关于 PCL、Minecraft，甚至是其他的一些的小东西，如果你感兴趣的话可以来看看！
 
-我们欢迎更多社区玩家加入，交流群：379026872。如有意愿加入组织请在群中 @WForst-Breeze @Deep-Dark-Forest @allMagicNB @JingHai-Lingyun，会尽可能在两天内发送邀请。
+我们欢迎更多社区玩家加入我们，如有意愿可以在本组织 Discussion 中申请加入，我们会进行综合考虑后邀请您加入交流群。
 
 <!--
 我们在 [GitCode](https://www.gitcode.com/PCL-Community)、[Gitee](https://www.gitee.com/PCL-Community)、[GitLab](https://www.gitlab.com/PCL-Community) 都设置了分组织，分别由 [@Deep-Dark-Forest](https://www.github.com/Deep-Dark-Forest)、[@wuliaodexiaoluo](https://www.github.com/wuliaodexiaoluo)、[@hejiehao](https://www.github.com/hejiehao) 管理，如果你想加入可以联系他们！
