@@ -16,7 +16,5 @@
 
 我们欢迎更多社区玩家加入我们，如有意愿可以在本组织 Discussion 中申请加入，我们会进行综合考虑后邀请您加入交流群。
 
-<!--
-我们在 [GitCode](https://www.gitcode.com/PCL-Community)、[Gitee](https://www.gitee.com/PCL-Community)、[GitLab](https://www.gitlab.com/PCL-Community) 都设置了分组织，分别由 [@Deep-Dark-Forest](https://www.github.com/Deep-Dark-Forest)、[@wuliaodexiaoluo](https://www.github.com/wuliaodexiaoluo)、[@hejiehao](https://www.github.com/hejiehao) 管理，如果你想加入可以联系他们！
-同时，欢迎加入我们的 [Telegram](https://t.me/PCL_Community) 或 [Oopz 群组](https://oopz.cn/i/iQXRjh) ！
--->
+> [!CAUTION]
+> 组织内禁止创建违反中国大陆地区法律法规的内容。一经发现社区管理员有权立即删除内容并将有关人员移出组织。涉及行政或刑事违法的，我们会尽力配合公安机关等政府部门的调查。本组织不对成员创建的违法项目承担任何法律责任。
